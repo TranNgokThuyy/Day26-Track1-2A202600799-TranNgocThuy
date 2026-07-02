@@ -1,6 +1,6 @@
 # Day 26 Lab - Fundraising Intelligence Brief
 
-**Họ tên:** Trần Ngọc Thủy  
+**Họ tên:** Trần Ngọc Thụy  
 **Repo:** Day26-Track1-2A202600799-TranNgocThuy
 
 ## Đầu vào - Idea A3 Canvas
